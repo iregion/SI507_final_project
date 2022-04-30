@@ -7,6 +7,8 @@ d2manifest.py is for the reqeust URL and cache the data. The API-key is also in 
 
 final_project.py is the main part of code. It extracts the data by sqlite3 and then process and reorganize the data. The user interface is also in it.
 
+weapon_tree.json is the data structure I used to store and search in.
+
 The first time running will consume a little bit longer. It needs to download a 150MB SQL database.
 
 
