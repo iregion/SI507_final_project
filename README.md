@@ -11,6 +11,4 @@ weapon_tree.json is the data structure I used to store and search in.
 
 The first time running will consume a little bit longer. It needs to download a 150MB SQL database.
 
-
-
-
+The demo video link is: https://drive.google.com/file/d/1HkPgoMQzdU2Ahim79QgMeY8ci-kquLKV/view?usp=sharing
